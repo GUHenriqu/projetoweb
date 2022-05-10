@@ -1,0 +1,25 @@
+
+    .left{
+        /*aqui o width é usado para definir a largura do div*/
+        width: 20%;
+        /*aqui o height foi usado para definir aq altura da div*/
+        height: 700px;
+        /*Background foi usado para definir a cor de fundo do div*/
+        background-color: rgb(255, 255, 255);
+        margin-left:10%;
+        border: 30px rgb(255, 255, 255) solid;
+        float:left;
+        margin-top:200px;
+    }
+
+    .right{
+        width: 20%;
+        height: 700px;
+        background-color: rgba(255, 255, 255, 0.979);
+        border: 30px rgb(255, 255, 255) solid;
+        /*border foi usado para mexer na borda da cor ou estrutura*/
+        float: right;
+        /*o margin right serve para alinhar a margem direita*/
+        margin-right:10% ;
+        margin-top: 200px;
+    }
