@@ -11,10 +11,14 @@ ul{
 }
 li{
     
-    color:rgb(0, 68, 255);
     /*para colocar a lista na mesma linha,é necessario usar o display inline, caso contrario ele ficara um abaixo do outro*/
     display: inline;
     padding-left: 25px;
+}
+li a{
+    color:#00FFFF;
+    text-decoration: none;
+    font-size: 20px;
 }
 p{
     padding: 10px;
